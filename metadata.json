@@ -1,0 +1,7 @@
+{
+  "name": "Mario Địa Lý - Chinh Phục Thế Giới",
+  "description": "Trò chơi phiêu lưu platformer phong cách Mario kết hợp kiến thức Địa lý Việt Nam và Thế giới hấp dẫn, tương tác cao.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
